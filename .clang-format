@@ -1,0 +1,11 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+UseTab: false
+TabWidth: 4
+AllowShortFunctionsOnASingleLine: false
+AllowShortBlocksOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+IndentCaseLabels: true
+DerivePointerAlignment: true
+PointerAlignment: Right
